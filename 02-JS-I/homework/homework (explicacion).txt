@@ -1,0 +1,22 @@
+- Variables:
+Una variables es como una caja donde podemos poner datos a los cuales los podemos llamar como nosotros queramos,
+dentro de ellos no contienen nada dentro sin que nosotros les digamos, cuando contienen algo ya tienen un valor dentro de los datos.
+Los nombres de estos datos pueden ser diferentes pero tambien puden llegar a valer lo mismo pero no pueden llamarse igual.
+
+- Strings:
+Son palabras que van entre comillas y que estas mismas pueden desatar una serie de acciones cuando las escribimos.
+
+- Funciones (argumentos, return):
+Las funciones son la forma de declarar como se hace el trabajo dentro de la aplicacion, web, etc. estas declaraciones tienen
+argumentos (variables, strings, etc) los cuales deben seguir al pie de la letra, ya que sin estos nada puede funcionar
+y seria algo vacio, cuando los mismos ya siguieron los pasos que declaramos antes devuelven una accionen o acciones.
+
+- Declaraciones (if):
+Es la forma en la que nuestra accion dentro de la aplicacion, web, etc. nos de una respuestra en base a lo que hacemos,
+por ejemplo, toco en la pestalla que dice "Incio" y esto me lleva al inicio, ya que dentro del codigo dice que si yo toco ahi
+pasa cierta accion o si en una pagina web escribimos alguna palabra esto le dice al codigo que es lo que me tiene de decir en
+respuestra a esa palabra.
+
+- Valores booleanos (true, false):
+Es como un verdadero o falso, por ejemplo afirmo que el numero 85 es mayor que 60 entonces el codigo me va a decir si eso es
+verdad o si es mentira.
