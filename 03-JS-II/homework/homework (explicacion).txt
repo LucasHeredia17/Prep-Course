@@ -1,0 +1,9 @@
+- "for": Es un bucle que se va repitiendo constantemente hasta que se cumpla una condicion la cual detiene el proceso e inclusive (si queremos)
+empieza otro proceso. Se divide en 4 partes, la primera es la palabra clave 'for', seguida de un parentesis en la cual declaramos una variable
+en esto trabajará el bucle, luego sigue la expreción adicional la cual detendrá el bucle si el mismo da false y su última parte es el aumento
+de la variable para que se repita (una vez que hacemos lo anterior ponemos el bloque de códigos entre llaves).
+
+- "&&", "||", "!": '&&' es un operador lógico que significa 'and', se usa para que la condicion se cumpla si o si, en caso contrario el código
+retornará como false. '||' es otro operador lógico el cual significa 'or', se usa para que la condicion tenga otra opción a la cual recurrir.
+'!' es el último operador lógico que se usa para negar algo, por ejemplo si las palabras 'A, E, I, O, U' NO están entonces no quiero que el
+código se active.
