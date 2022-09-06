@@ -1,0 +1,3 @@
+- Array: Los "Array" son arreglos en donde se pueden poner muchas cosas, como por ejemplo numeros, palabras y booleanos. Estos sirven para poder contabilizar
+todo lo que nosotros queramos y para que todo este mucho mas ordenado, a los mismos arreglos se le pueden cambiar los nombres asi como tener todos los que
+necesitemos para que nuestro codigo este mucho mas ordenado.
