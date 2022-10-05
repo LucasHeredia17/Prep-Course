@@ -1,0 +1,19 @@
+- Objetos: En escencia es lo mismo que un array pero con la particularidad que cuando nosotros queremos ver alguna propiedad del objeto
+en vez de buscarlo por un numero (mayor o igual que 0), lo buscamos por una palabra clave y este mismo nos devolverá la propiedad que nosotros
+pidamos, en caso de que la hayamos guardado nos devuelve el dato y en caso contrario nos devuelve "undefined".
+
+- Propiedades: Estas estan dentro de los objetos y cada una puede contener cualquier tipo de dato, ya sea números, strings, valores booleanos,
+funciones, arrays e inclucive otro objeto.
+
+- Métodos: Cuando guardamos una función dentro de un objeto este mismo pasa a llamarse método, y se invoca de la misma manera que como se haría 
+normalmente pero con notacion de puntos y al final paréntesis. Ej: nuevoObjeto.invocoMetodo ().
+
+- Bucle "for…in": Cuando querramos iterar sobre cada palabra clave de nuestro objeto el bucle estándar utilizado no funcionará pero JS tiene
+otro bucle para este caso. Este mismo consiste en la palabra "for" seguido de un parentesis, luego de eso declaramos una variable, la palabra
+clave "in" y el nombre del objeto, Ej: for (let palabra in codigo). Este bucle tiene prioridad sobre las propiedades más cercanas al objeto y
+las mas alejadas menos. El bucle finaliza una vez que haya iterado todas las propiedades.
+
+- Notación de puntos vs notación de corchetes: La notacion de puntos es para acceder a propiedades del objeto y se escribe con el nombre del objeto
+y seguido del nombre de la propiedad, ej: nuevoObjeto.nombreDePropiedad. La notacion de corchete se una para lo mismo que el Dot Notation y este
+se escribe con el nombre del objeto y seguido del nombre de la propiedad pero con la diferencia que entre corchetes va la propiedad entre comillas
+como una string, ej: nuevoObjeto ['nombreDePropiedad'].
