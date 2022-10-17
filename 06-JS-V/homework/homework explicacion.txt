@@ -1,0 +1,11 @@
+- prototype: Cada vez que creamos un objeto de clase este mismo va a traer muchos métodos dentro del mismo y todos tienen una funcion, pero tambien nosotros
+podemos crear una, para ello tenemos "prototype" que nos permite, no solo acceder, sino tambien crear y modificar. Se hace de la siguiente forma,
+Ej: {{nombre del objeto de clase}}.prototype.{{nombre del método}}.
+
+- Constructors: Sirve para facilitar la creacion de nuevos objetos y para que no nos repitamos, se crea de la siguiente manera,
+Ej: function Usuario (usuario, nombre, email, password) {
+    this.usuario = usuario;
+    this.nombre = nombre;
+    this.email = email;
+    this.password = password;
+  }
